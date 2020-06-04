@@ -3,7 +3,6 @@
 """
 Created on Mon May 25 17:38:27 2020
 
-@author: etrans
 """
 
 import os
@@ -15,7 +14,6 @@ import sys
 import certifi
 import slack
 
-from modules.send_info import send_info, send_real_response
 
 """This file serves as an example for how to create the same app, but running asynchronously."""
 
